@@ -3,7 +3,7 @@ venv/bin
 *.pyc
 *~
 __pycache__
-myvenv
+venv
 db.sqlite3
 /static
 .DS_Store
